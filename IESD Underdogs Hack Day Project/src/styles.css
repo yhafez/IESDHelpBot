@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(141, 35, 15);
+}
+
+h1 {
+  margin: 5rem 1rem 2rem 1rem;
+  box-shadow: 0 0 10px;
+  background-color: rgba(155, 79, 15, 96%);
+  border: 2px solid rgb(201, 158, 14);
+  width: 94vw;
+  border-radius: 2%
+}
+
+header {
+  background-color: rgb(201, 158, 14, 60%);
+  border: 2px solid rgb(201, 158, 14);
+  margin: 1rem 1rem 2rem 1rem;
+  width: 96%;
+  border-radius: %
+}
+
+input {
+  border: 0.1rem solid rgb(201, 158, 14);
+  border-radius: 2%;
+  width: calc(10rem + 20vw);
+  height: calc(5rem + 8vh);
+  background-color: slategray;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+h3 {
+  margin: none;
+}
+
+.card {
+  background-color: rgba(29, 66, 76, 95%);
+  padding: 0 0.5rem 1rem 0.5rem;
+  max-width: calc(10rem + 22vw);
+  box-shadow: 0 0 10px;
+  border-radius: 2%;
+  margin: 0.5rem;
+  border: 2px solid rgb(201, 158, 14);
+}
+
+input {
+  margin-top: 1rem;
+}
